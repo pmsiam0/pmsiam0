@@ -49,5 +49,18 @@
 
 ---
 
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmsiam&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmsiam&layout=compact&theme=radical)
+
+---
+
+## 🌐 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourname)
+[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue?logo=twitter)](https://twitter.com/yourhandle)
+
 ## 🛠️ Skills
 
