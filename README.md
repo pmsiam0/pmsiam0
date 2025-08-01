@@ -26,7 +26,7 @@
 | Project | Description | Tags |
 |--------|-------------|------|
 | [Recon-Automation](https://github.com/pmsiam0/knightrecon) | Fully automated subdomain + nuclei scanner | #automation #bugbounty |
-| [Forensics-CTF]([https://github.com/your/repo](https://github.com/pmsiam0/nexusCTF)) | Custom forensic challenges with writeups | #ctf #forensics |
+| [Forensics-CTF](https://github.com/pmsiam0/nexusCTF) | Custom forensic challenges with writeups | #ctf #forensics |
 
 ---
 
