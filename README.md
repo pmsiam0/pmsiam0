@@ -2,10 +2,10 @@
 <h3 align="center">Cybersecurity Researcher | Bug Bounty Hunter | CTF Player</h3>
 
 - 🔭 I’m currently working on **Bug Bounty Automation & Recon Tools**
-- 🌱 I’m learning **Advanced Binary Exploitation & Web App Pentesting**
-- 💬 Ask me about **XSS, SSRF, IDOR, Race Conditions, Flash Loans**
-- 📫 How to reach me: `your.email@example.com`
-- 🧠 Writeups: [My CTF Writeups](https://yourwriteupsite.com)
+- 🌱 I’m learning **Web App Pentesting & IOS Testing**
+- 💬 Ask me about **IDOR, Race Conditions, Flash Loans**
+- 📫 How to reach me: `islamsiam484@gmail.com`
+- 🧠 Writeups: [My Bug Writeups](https://medium.com/@pmsiam0/how-i-get-my-first-bounty-from-github-92af7afeff1a)
 - 🐞 Top platforms: HackerOne `@toushinx`, Bugcrowd `@pmsiam0`
 - 🌍 I love sharing knowledge on cybersecurity & OSINT!
 
@@ -25,36 +25,18 @@
 
 | Project | Description | Tags |
 |--------|-------------|------|
-| [Recon-Automation](https://github.com/your/repo) | Fully automated subdomain + nuclei scanner | #automation #bugbounty |
-| [XSS-Lab](https://github.com/your/repo) | Practice platform for modern XSS | #websec #xss |
-| [Forensics-CTF](https://github.com/your/repo) | Custom forensic challenges with writeups | #ctf #forensics |
+| [Recon-Automation](https://github.com/pmsiam0/knightrecon) | Fully automated subdomain + nuclei scanner | #automation #bugbounty |
+| [Forensics-CTF]([https://github.com/your/repo](https://github.com/pmsiam0/nexusCTF)) | Custom forensic challenges with writeups | #ctf #forensics |
 
 ---
 
 ## 🏆 Capture The Flag (CTF)
 
-- 🥇 1st place at XYZCTF 2024
-- 🛡️ Contributor to HTB & TryHackMe rooms
-- 📖 CTF writeups: [Read here](https://github.com/your/writeups)
+- Organizer of Knightctf && BdsecCtf
+- 📖 CTF writeups: [Read here](https://kshackzone.com/writeups)
+- Moderator at KSHACKZONE
 
----
 
-## 🧠 Latest Writeups
-
-<!-- BLOG-POST-LIST:START -->
-- [🏁 Bypassing MFA using Race Condition](https://yourblog.com/mfa-race)
-- [🔐 IDOR in Banking Portal](https://yourblog.com/bank-idor)
-- [🧬 Forensics CTF: Payload Analysis](https://yourblog.com/forensics)
-<!-- BLOG-POST-LIST:END -->
-
----
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmsiam&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmsiam&layout=compact&theme=radical)
 
 ---
 
