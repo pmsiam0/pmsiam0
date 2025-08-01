@@ -41,8 +41,11 @@
 ---
 
 ## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourname)
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue?logo=twitter)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/pmsiam0)
+[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-blue?logo=twitter)](https://twitter.com/pmsiam0)
 
 ## 🛠️ Skills
-
+🔹 Web Exploitation 🔹 Bug Bounty Automation
+🔹 Python Scripting 🔹 Recon Engineering
+🔹 CTF Challenge Design 🔹 Red Teaming Tools
+🔹 OSINT Investigations 🔹 DeFi Flash Loan Exploits
