@@ -1,53 +1,64 @@
-<h1 align="center">Hi 👋, I'm Parvez Mosharaf Siam</h1>
-<h3 align="center">Cybersecurity Researcher | Bug Bounty Hunter | CTF Player</h3>
 
-- 🔭 I’m currently working on **Bug Bounty Automation & Recon Tools**
-- 🌱 I’m learning **Advanced Binary Exploitation & Web App Pentesting**
-- 💬 Ask me about **XSS, SSRF, IDOR, Race Conditions, Flash Loans**
-- 📫 How to reach me: `your.email@example.com`
-- 🧠 Writeups: [My CTF Writeups](https://yourwriteupsite.com)
-- 🐞 Top platforms: HackerOne `@toushinx`, Bugcrowd `@pmsiam0`
-- 🌍 I love sharing knowledge on cybersecurity & OSINT!
+```
+┌──(siam㉿cybersec)-[~/github]
+└─$ whoami
+Parvez Mosharaf Siam — Cybersecurity Engineer | Bug Bounty Hunter | CTF Challenge Creator
 
----
+┌──(siam㉿cybersec)-[~/github]
+└─$ cat about_me.txt
 
-## 🧰 My Arsenal
-<p>
-  <img src="https://img.shields.io/badge/Tool-Nmap-blue" />
-  <img src="https://img.shields.io/badge/Tool-Burp%20Suite-orange" />
-  <img src="https://img.shields.io/badge/Tool-Amass-yellow" />
-  <img src="https://img.shields.io/badge/Tool-Nuclei-red" />
-  <img src="https://img.shields.io/badge/Tool-Subfinder-green" />
-  <img src="https://img.shields.io/badge/Script-Python-black" />
-</p>
+🛡️ Offensive Security | Web & Mobile App Exploitation | Automation Addict  
+🧠 Building tools to automate recon, hunt logic flaws, and bypass modern defenses  
+📍 Recon Wizard | Forensics Mastermind | Flashloan Liquidator  
 
-## 🧑‍💻 Projects
+┌──(siam㉿cybersec)-[~/github]
+└─$ ./skills.sh
 
-| Project | Description | Tags |
-|--------|-------------|------|
-| [Recon-Automation](https://github.com/your/repo) | Fully automated subdomain + nuclei scanner | #automation #bugbounty |
-| [XSS-Lab](https://github.com/your/repo) | Practice platform for modern XSS | #websec #xss |
-| [Forensics-CTF](https://github.com/your/repo) | Custom forensic challenges with writeups | #ctf #forensics |
+🔐 Web Hacking: IDOR | SSRF | XSS | CSRF | Broken Auth | Logic Bugs  
+📦 API Abuse | Rate Limit Bypass | Header Poisoning | Replay Attacks  
+📱 Mobile Exploitation (Frida, Apktool, jadx, Objection)  
+⚡ DeFi Exploits: Flashloans | Oracle Manipulation | Solidity  
+🛰️ Recon: Subfinder, Amass, Nuclei, Custom Scripts (Python + Bash)  
+🧰 Automation: Recon bots, payload injectors, bypass frameworks
 
----
+┌──(siam㉿cybersec)-[~/github]
+└─$ ls projects
 
-## 🏆 Capture The Flag (CTF)
+📁 recon-factory/       — Automated bug bounty recon pipeline  
+📁 critical-bug-pocs/   — Public PoCs of logic flaws, IDORs, & rate bypasses  
+📁 frida-rce-lab/       — Android RCE hooks and reverse engineering  
+📁 nuclei-templates/    — Custom Nuclei templates from real world reports  
+📁 ctf-forensics/       — Advanced forensic CTF challenges I created  
+📁 darkweb-osint/       — Dark web monitoring & leaked DB crawler
 
-- 🥇 1st place at XYZCTF 2024
-- 🛡️ Contributor to HTB & TryHackMe rooms
-- 📖 CTF writeups: [Read here](https://github.com/your/writeups)
+┌──(siam㉿cybersec)-[~/github]
+└─$ ./writeups.sh
 
----
+📌 [IDOR to Admin Panel Hijack](https://yourblog.com/idor-admin)  
+📌 [Bypassing Login Challenge for Unlimited Credits](https://yourblog.com/logic-farm)  
+📌 [Race Condition in Wallet Withdrawal](https://yourblog.com/race-wallet)  
+📌 [Automated Recon to XSS Chain](https://yourblog.com/xss-chain)  
+📌 [Firebase Misconfig Takeover](https://yourblog.com/firebase)
 
-## 🧠 Latest Writeups
+┌──(siam㉿cybersec)-[~/github]
+└─$ ./stats.sh
 
-<!-- BLOG-POST-LIST:START -->
-- [🏁 Bypassing MFA using Race Condition](https://yourblog.com/mfa-race)
-- [🔐 IDOR in Banking Portal](https://yourblog.com/bank-idor)
-- [🧬 Forensics CTF: Payload Analysis](https://yourblog.com/forensics)
-<!-- BLOG-POST-LIST:END -->
+🧠 80+ Valid Bugs | 10+ Critical Reports | 400+ Private PoCs  
+🎯 HackerOne: [@toushinx](https://hackerone.com/toushinx)  
+🎯 Bugcrowd: [@pmsiam0](https://bugcrowd.com/pmsiam0)  
+🏴 Top Targets: Fintech, Telco, Healthcare, Blockchain, Gov
 
----
+┌──(siam㉿cybersec)-[~/github]
+└─$ ./connect.sh
 
-## 🛠️ Skills
+🔗 LinkedIn: [linkedin.com/in/pmsiam](https://linkedin.com/in/pmsiam)  
+🐦 Twitter: [@toushinx](https://twitter.com/toushinx)  
+🌍 Blog: [pmsiam.blog](https://yourblog.com)  
+📧 Contact: `siam@pmsec.tech`
 
+┌──(siam㉿cybersec)-[~/github]
+└─$ ./motto.sh
+
+🎤 "I don’t just find bugs — I weaponize logic flaws, automate recon, and teach machines to hack."
+
+```
